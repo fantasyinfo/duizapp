@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602378185921",
+    "project_id": "duiz-1e563",
+    "storage_bucket": "duiz-1e563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602378185921:android:3096f162548f0b74b67840",
+        "android_client_info": {
+          "package_name": "com.muhshizou.moneyearningquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602378185921-al2eottcdmpf1mchonjput1ql8u0nvqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIxblBFWb3eqnzpx9W1EJlHfCYh8m4gd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602378185921-al2eottcdmpf1mchonjput1ql8u0nvqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
